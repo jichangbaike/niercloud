@@ -68,6 +68,12 @@
 
 ---
 
+## 测试截图
+
+<img src="https://raw.githubusercontent.com/jichangbaike/niercloud/refs/heads/main/images/niercloud-test-20260131.png" alt="尼尔云 niercloud 测速图和流媒体测试图">
+
+> 测试时间：2026-01-31， 电信2Gbps
+
 ## 常见问题（FAQ）
 
 ### 1）购买后在哪里获取订阅信息？
